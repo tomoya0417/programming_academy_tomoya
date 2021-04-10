@@ -20,13 +20,17 @@
     display: flex;
 }
 
+.bigbox2{
+    margin: auto;
+}
+
 .img1{
     margin-top: 10px;
     margin-bottom: 10px;
 }
 
 .a1{
-    margin-left: 180px;
+    margin-left: 450px;
     margin-top: 30px;
     margin-bottom: 20px;
     color: black;
@@ -193,7 +197,7 @@
 
 .月々1{
     margin-top: 50px;
-    margin-left: 285px;
+    margin-left: 425px;
     font-size: 20px;
     color: orangered;
 }
@@ -207,7 +211,7 @@
 
 .car1{
     display: block;
-    margin-left: 170px;
+    margin-left: 300px;
     width: auto;
 }
 
@@ -218,7 +222,7 @@
 }
 
 .車種1{
-    margin-left: 170px;
+    margin-left: 300px;
     margin-top: 5px;
     color: black;
     font-size: 15px;
@@ -233,7 +237,7 @@
 
 .説明1{
     color: black;
-    margin-left: 170px;
+    margin-left: 300px;
     font-size: 12px;
 }
 
