@@ -30,7 +30,7 @@
 }
 
 .a1{
-    margin-left: 450px;
+    margin-left: 330px;
     margin-top: 30px;
     margin-bottom: 20px;
     color: black;
@@ -38,7 +38,7 @@
 }
 
 .a2{
-    margin-left: 70px;
+    margin-left: 50px;
     margin-top: 30px;
     margin-bottom: 20px;
     color: black;
@@ -183,7 +183,20 @@
     background-color: whitesmoke;
 }
 
+.box88{
+    height: 600px;
+    width: 100%;
+    background-color: white;
+}
+
 .当店{
+    color: orangered;
+    text-align: center;
+    font-size:35px;
+    padding-top: 20px;
+}
+
+.問い{
     color: orangered;
     text-align: center;
     font-size:35px;
@@ -253,11 +266,81 @@
     font-size: 12px;
 }
 
+.box90{
+    width: 30%;
+    margin-top: 60px;
+}
+
+.onamae{
+    margin-left: 70%;
+}
+
+.box91{
+    width: 70%;
+    margin-top: 60px;
+}
+
+.name99{
+    width: 60%;
+    height: 40px;
+    margin-left: 30px;
+    background-color: whitesmoke;
+    border: none;
+}
+
+.box92{
+    width: 30%;
+    margin-top:30px;
+}
+
+.email{
+    margin-left: 60%;
+}
+
+.box93{
+    width: 70%;
+    margin-top: 30px;
+}
+
+.email2{
+    width: 60%;
+    height: 40px;
+    margin-left: 30px;
+    background-color: whitesmoke;
+    border: none;
+}
+
+.textarea2{
+    margin-left: 60%;
+}
+
+.textarea22{
+    width: 60%;
+    height: 100px;
+    margin-left: 30px;
+    background-color: whitesmoke;
+    border: none;
+}
+
+.subbotan{
+    width: 100%;
+    margin-top: 80px;
+}
+.botan{
+    background-color: orangered;
+    color: white;
+    width: 400px;
+    height: 30px;
+    border-radius: 40px;
+    margin: auto;
+    display: block;
+}
 .box8{
     height: 50px;
     width: auto;
     background-color: blue;
 }
+
 
 .佐竹塾{
     color: white;
