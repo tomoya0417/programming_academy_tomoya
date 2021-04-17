@@ -30,7 +30,7 @@
 }
 
 .a1{
-    margin-left: 330px;
+    margin-left: 380px;
     margin-top: 30px;
     margin-bottom: 20px;
     color: black;
@@ -184,7 +184,7 @@
 }
 
 .box88{
-    height: 600px;
+    height: 550px;
     width: 100%;
     background-color: white;
 }
@@ -326,6 +326,7 @@
     width: 100%;
     margin-top: 80px;
 }
+
 .botan{
     background-color: orangered;
     color: white;
@@ -334,7 +335,18 @@
     border-radius: 40px;
     margin: auto;
     display: block;
+    border: none;
 }
+input{
+    text-indent: 1em;
+    width: 100%;
+}
+
+textarea{
+    text-indent: 1em;
+    width: 100%;
+}
+
 .box8{
     height: 50px;
     width: auto;
