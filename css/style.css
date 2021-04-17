@@ -16,12 +16,12 @@
     margin-left: 50%;
 }
 
-.wrapper{
-    display: flex;
+.fontbox{
+    margin-right: 5px;
 }
 
-.bigbox2{
-    margin: auto;
+.wrapper{
+    display: flex;
 }
 
 .img1{
