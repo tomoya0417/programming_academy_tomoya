@@ -18,8 +18,12 @@
 
 .fontbox{
     margin-right: 5px;
+    width: 70%;
 }
 
+.imagbox{
+    width: 30%;
+}
 .wrapper{
     display: flex;
 }
@@ -30,26 +34,29 @@
 }
 
 .a1{
-    margin-left: 380px;
-    margin-top: 30px;
+    margin-top: 25px;
     margin-bottom: 20px;
     color: black;
     text-decoration: none;
+    margin-left: 10%;
+    font-size: 20px;
 }
 
 .a2{
-    margin-left: 50px;
-    margin-top: 30px;
+    margin-left: 30px;
+    margin-top: 25px;
     margin-bottom: 20px;
     color: black;
     text-decoration: none;
+    margin-left: 80px;
+    font-size: 20px;
 }
 
 .お問い合わせ{
     height: 30px;
-    width: 230px;
-    margin-left: 70px;
-    margin-top: 25px;
+    width: 250px;
+    margin-left: 80px;
+    margin-top: 20px;
     background-color:orangered;
     border-radius: 30px;
 }
@@ -59,7 +66,8 @@
     text-align: center;
     color: white;
     display: block;
-    padding: 5px;
+    padding: 2px;
+    font-size: 20px;
 }
 
 .img2{
