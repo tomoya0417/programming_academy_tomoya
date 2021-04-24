@@ -16,11 +16,6 @@
     margin-left: 50%;
 }
 
-.fontbox{
-    margin-right: 5px;
-    width: 70%;
-}
-
 .imagbox{
     width: 30%;
 }
@@ -30,7 +25,7 @@
 
 .img1{
     margin-top: 10px;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
 }
 
 .a1{
@@ -39,7 +34,7 @@
     color: black;
     text-decoration: none;
     margin-left: 10%;
-    font-size: 20px;
+    font-size: 15px;
 }
 
 .a2{
@@ -48,14 +43,14 @@
     margin-bottom: 20px;
     color: black;
     text-decoration: none;
-    margin-left: 80px;
-    font-size: 20px;
+    margin-left: 60px;
+    font-size: 15px;
 }
 
 .お問い合わせ{
     height: 30px;
-    width: 250px;
-    margin-left: 80px;
+    width: 200px;
+    margin-left: 60px;
     margin-top: 20px;
     background-color:orangered;
     border-radius: 30px;
@@ -66,8 +61,8 @@
     text-align: center;
     color: white;
     display: block;
-    padding: 2px;
-    font-size: 20px;
+    padding: 5px;
+    font-size: 15px;
 }
 
 .img2{
@@ -137,7 +132,7 @@
     color: white;
     text-align: center;
     font-size: 15px;
-    padding: 20px 0;
+    padding: 10px 0;
 }
 
 .box5{
@@ -153,14 +148,14 @@
     color: white;
     text-align: center;
     font-size: 15px;
-    padding: 20px 0;
+    padding: 10px 0;
 }
 
 .p0{
     color: white;
     text-align: center;
-    font-size: 15px;
-    padding-top: 7px;
+    font-size: 13px;
+    padding-top: 12px;
 }
 
 .box22{
@@ -186,7 +181,7 @@
 }
 
 .box7{
-    height: 500px;
+    height: 480px;
     width: 100%;
     background-color: whitesmoke;
 }
@@ -217,40 +212,40 @@
 }
 
 .月々1{
-    margin-top: 50px;
-    margin-left: 425px;
+    margin-top: 40px;
+    margin-left: 210px;
     font-size: 20px;
     color: orangered;
 }
 
 .月々2{
-    margin-top: 50px;
-    margin-left: 315px;
+    margin-top: 40px;
+    margin-left: 265px;
     font-size: 20px;
     color: orangered;
 }
 
 .car1{
     display: block;
-    margin-left: 300px;
+    margin-left: 100px;
     width: auto;
 }
 
 .car2{
     display: block;
-    margin-left: 200px;
+    margin-left: 150px;
     width: auto;
 }
 
 .車種1{
-    margin-left: 300px;
+    margin-left: 100px;
     margin-top: 5px;
     color: black;
     font-size: 15px;
 }
 
 .車種2{
-    margin-left: 362px;
+    margin-left: 310px;
     margin-top: 5px;
     color: black;
     font-size: 15px;
@@ -258,18 +253,18 @@
 
 .説明1{
     color: black;
-    margin-left: 300px;
+    margin-left: 100px;
     font-size: 12px;
 }
 
 .説明2{
-    margin-left: 242px;
+    margin-left: 190px;
     color: black;
     font-size: 12px;
 }
 
 .説明3{
-    margin-left: 242px;
+    margin-left: 190px;
     color: black;
     font-size: 12px;
 }
